@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**bego00/bego00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I'm a Software Testing Engineer .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### NOW
+
+- Learning More About Automation Testing [ `UI` , `API` , `Performance` ] 
+
+##### BIO
+
+- 🏢 I'm currently **Student** at **computer science** at Ain Shams
+- ⚙️ I use daily: `selenium`, `.JAVA`, `.html` 
+- 🌍 I'm mostly active within the **Applitools Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Testing**, **Developing**, **Selenium**, **development**, **design thinking**
+- 📫 Reach me: [LinkedIn/ahmed](https://www.linkedin.com/in/ahmed-mohamed-b270b517b/)
+- 📃 Resume : 
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+<br>
+<br>
+<hr>
+
+<p align="center">
+
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  
+</p>
+
