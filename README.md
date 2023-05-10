@@ -9,8 +9,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently **Student** at **computer science** at Ain Shams
-- ⚙️ I use daily: `selenium`, `.JAVA`, `.html` 
+- 🏢 I'm currently **Senior Student** at **computer science** at Ain Shams
+- ⚙️ I use daily: `selenium`, `.JAVA`, `.testNG` 
 - 🌍 I'm mostly active within the **Applitools Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Testing**, **Developing**, **Selenium**, **development**, **design thinking**
