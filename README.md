@@ -9,13 +9,13 @@
 
 ##### BIO
 
-- 🏢 I'm currently **Senior Student** at **computer science** at Ain Shams
+- 🏢 I'm currently **Fresh graduate** form **computer science** at Ain Shams
 - ⚙️ I use daily: `selenium`, `.JAVA`, `.testNG` 
 - 🌍 I'm mostly active within the **Applitools Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Testing**, **Developing**, **Selenium**, **development**, **design thinking**
 - 📫 Reach me: [LinkedIn/ahmed](https://www.linkedin.com/in/ahmed-mohamed-b270b517b/)
-- 📃 Resume : https://app.flowcv.io/resume-feedback/JpENNxmHyIX1dZYavpkD-
+- 📃 Resume : [https://app.flowcv.io/resume-feedback/JpENNxmHyIX1dZYavpkD-](https://flowcv.com/resume/hmapivmgj7)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 <br>
 <br>
